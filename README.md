@@ -14,3 +14,23 @@
 - End Tag: The browser recognizes the end tag, which tells it to stop applying the - defined behavior and close the element.
 #  What is void tag ?
 - Some HTML elements are self-closing and do not have an end tag. These are called void elements. <img> is a void element, which means it doesn't require an end tag.
+# What is attribute in html ?
+An attribute in HTML is used to provide additional information about an HTML element. Attributes are always included in the opening tag of an element and usually consist of a name and a value.
+Structure of an HTML Attribute
+Attribute Name: The name of the attribute (e.g., href, src, class).
+Attribute Value: The value assigned to the attribute, usually enclosed in quotes.
+Global Attributes: These can be used on any HTML element.
+
+id: Specifies a unique id for an element.
+class: Specifies one or more class names for an element.
+style: Specifies an inline CSS style for an element.
+title: Provides additional information about an element (displayed as a tooltip).
+Specific Attributes: These are specific to particular elements.
+
+href (for <a>): Specifies the URL of the linked document.
+src (for <img>): Specifies the URL of the image.
+alt (for <img>): Provides alternative text for the image.
+type (for <input>): Specifies the type of input control (e.g., text, radio, checkbox).
+value (for <input>): Specifies the initial value of the input control.
+Boolean Attributes
+Some attributes are boolean attributes, meaning their presence alone represents a true value. They do not need a value.
