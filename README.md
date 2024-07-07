@@ -41,3 +41,12 @@ Some attributes are boolean attributes, meaning their presence alone represents 
 
 
 # Creating new branch for exchange knowledge
+
+# Explain the difference between id and class attributes.
+- id Attribute
+  Uniqueness
+   The id attribute must be unique within a document. No two elements should have the same id.
+  Example: <div id="header"></div>
+  class Attribute
+  The class attribute is not unique and can be used on multiple elements. Multiple elements can share the same class.
+  Example: <div class="highlight"></div>.
