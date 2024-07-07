@@ -34,3 +34,10 @@ type (for <input>): Specifies the type of input control (e.g., text, radio, chec
 value (for <input>): Specifies the initial value of the input control.
 Boolean Attributes
 Some attributes are boolean attributes, meaning their presence alone represents a true value. They do not need a value.
+
+
+# what the hell is going on here....
+
+
+
+# Creating new branch for exchange knowledge
