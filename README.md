@@ -34,3 +34,7 @@ type (for <input>): Specifies the type of input control (e.g., text, radio, chec
 value (for <input>): Specifies the initial value of the input control.
 Boolean Attributes
 Some attributes are boolean attributes, meaning their presence alone represents a true value. They do not need a value.
+
+
+# What is Javascript? 
+JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else.
